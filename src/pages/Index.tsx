@@ -76,7 +76,7 @@ const Index = () => {
               <div className="flex items-center space-x-2">
                 <Icon name="Zap" className="h-8 w-8 text-blue-600" />
                 <span className="text-xl font-bold text-gray-900">
-                  DiMarket
+                  MarketDi
                 </span>
               </div>
               <nav className="hidden md:flex space-x-6">
@@ -476,7 +476,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Zap" className="h-6 w-6" />
-                <span className="text-lg font-bold">DiMarket</span>
+                <span className="text-lg font-bold">MarketDi</span>
               </div>
               <p className="text-gray-400">
                 Лучшая платформа для покупки и продажи качественных изображений
